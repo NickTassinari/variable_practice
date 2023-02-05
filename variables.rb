@@ -6,3 +6,6 @@ full_phrase = phrase1 + phrase3 + phrase2
 fav_num = 3
 emergency = 911
 
+pi = 3.14
+makeout = 6.4
+
