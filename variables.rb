@@ -9,3 +9,6 @@ emergency = 911
 pi = 3.14
 makeout = 6.4
 
+reality = false  
+vacant_brain = true
+
